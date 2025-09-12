@@ -16,7 +16,7 @@
 
 ### 팀 슬로건
 
-팀 슬로건을 작성합니다.
+The Future Isn't Found, It's Forged
 
 ### 팀 소개
 
