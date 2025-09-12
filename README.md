@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
-# Welcome to ○팀
+# Welcome to 8팀
 
 ## 1️⃣ 팀원 소개
 
@@ -8,23 +8,23 @@
 | **김태경** | 소프트웨어전공 | 알고리즘, 게임개발 |
 | **남성혁** | 소프트웨어전공 | 정보보안, 알고리즘 |
 | **가리드** | 소프트웨어전공 | 데이터 사이언스|
-| **박민수** | 인공지능전공 | UX/UI, 모바일 앱, 창업 |
-| **최지현** | 인공지능전공 | 분산 시스템, 데이터베이스, 오픈소스 |
+| **undefined** | null | null |
+| **undefined** | null | null |
 
 유레카프로젝트 프로젝트 팀 생성을 축하합니다.
 유레카프로젝트 프로젝트 팀의 제목과 팀원의 이름 및 관심사를 변경하세요.
 
 ### 팀 슬로건
 
-The Future Isn't Found, It's Forged
+The Future Isn't Found, It's Forged.
 
 ### 팀 소개
 
-팀의 소개를 작성합니다.
+
 
 ***
 
-## 2️⃣ 공통된 관심사 : 여행, 백엔드, 인공지능
+## 2️⃣ 공통된 관심사 : 게임, 알고리즘
 
 ***
 
@@ -44,7 +44,10 @@ The Future Isn't Found, It's Forged
   - 우리가 상상한 미래
   - 우리가 그리는 미래 그리고 나
 
-- 각오와 소감 나누기 ✔️  
+- 각오와 소감 나누기 ✔️
+  - 김태경 : 미래를 만들어가겠습니다.
+  - 남성혁 : 프로젝트 활동에 열심히 참여하여 협력심을 기르겠습니다.
+  - 가리드 : 적극적으로 참여하겠습니다.
 
 
 <!-- 활동 사진 추가 예시 -->
