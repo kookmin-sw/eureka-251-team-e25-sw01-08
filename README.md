@@ -20,7 +20,7 @@ The Future Isn't Found, It's Forged.
 
 ### 팀 소개
 
-
+22세기를 향해 달려가는 8팀입니다.
 
 ***
 
