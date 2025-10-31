@@ -5,11 +5,10 @@
 
 | **이름** | **전공** | **관심사** |
 | --- | --- | --- |
+| **가리드** | 소프트웨어전공 | 데이터 사이언스|
 | **김태경** | 소프트웨어전공 | 알고리즘, 게임개발 |
 | **남성혁** | 소프트웨어전공 | 정보보안, 알고리즘 |
-| **가리드** | 소프트웨어전공 | 데이터 사이언스|
 | **백채린** | 소프트웨어전공 | 프론트엔드, UX/UI |
-| **undefined** | null | null |
 
 ### 팀 슬로건
 
@@ -143,10 +142,27 @@ The Future Isn't Found, It's Forged.
 
 
 <!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
+<img src="https://i.postimg.cc/s21tDQzX/EP-team-8-presentation-image.png" width="594" height="841"/>
+- 발표 자료 다운로드
+  - https://drive.google.com/drive/folders/1RXvWVZkNtnqLtkwDYFGasW3fUqZIm73I?usp=drive_link
 
+
+***
+[ Mission 1 ]
+
+현재 실현된 기술은?
+- 전기자동차, 로봇청소기, 전자신문, 스마트폰, 무빙워크, 인터넷 강의, 태양열 발전을 이용한 집, etc.
+
+느낀점?
+- 꽤나 먼 과거임에도 불구하고 현재의 모습을 거의 정확히 맞췄다는 점이 흥미롭고, 현시대의 미래에 대한 상상이 이루어질 수도 있겠다는 생각을 해보게 되었습니다.
+
+[ Mission 2 ]
+
+현재 실현된 기술은?
+- 디지털 드로잉 기술, 실시간 번역, 디지털 티켓, 투명 디스플레이, IoT, 자율주행자동차, IC칩 이식, etc.
+
+느낀점?
+- 30년이라는 짧다면 짧은 시간동안 이 많은 기술이 기하급수적으로 발전되었다는 점이 놀랍고, 앞으로 더더욱 빠르게 발전될 기술들을 어떻게 습득하고, 새로운 기술을 개발할 수 있을지 고민해 볼 수 있는 시간이었습니다.
 ***
 
 ## 4️⃣ 인상 깊은 활동
