@@ -133,7 +133,7 @@ The Future Isn't Found, It's Forged.
           ```
           
   - 우리가 상상한 미래
-    - ***
+    ***
       [ Mission 1 ]
 
       현재 실현된 기술은?
@@ -153,16 +153,16 @@ The Future Isn't Found, It's Forged.
       
   - 우리가 그리는 미래 그리고 나
 
+     <!-- 활동 사진 추가 예시 -->
+    <img src="https://i.postimg.cc/s21tDQzX/EP-team-8-presentation-image.png" width="594" height="841"/>
+      - 발표 자료 다운로드
+        - https://drive.google.com/drive/folders/1RXvWVZkNtnqLtkwDYFGasW3fUqZIm73I?usp=drive_link
+
 - 각오와 소감 나누기 ✔️
   - 김태경 : 미래를 만들어가겠습니다.
   - 남성혁 : 프로젝트 활동에 열심히 참여하여 협력심을 기르겠습니다.
   - 가리드 : 적극적으로 참여하겠습니다.
-
-
-<!-- 활동 사진 추가 예시 -->
-<img src="https://i.postimg.cc/s21tDQzX/EP-team-8-presentation-image.png" width="594" height="841"/>
-- 발표 자료 다운로드
-  - https://drive.google.com/drive/folders/1RXvWVZkNtnqLtkwDYFGasW3fUqZIm73I?usp=drive_link
+  - 백채린 : 프로젝트 활동에 열심히 참여하겠습니다.
 
 
 ## 4️⃣ 인상 깊은 활동
